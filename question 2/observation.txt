@@ -1,0 +1,20 @@
+SNAP_fb_tree = 207.632ms
+SNAP_fb_list = 232.074ms
+    vertex = 4039
+    edges = 88234
+
+SNAP_epinion_tree= 1263.07ms
+SNAP_epinion_list= 602631ms
+    vertex = 75888
+    edge = 508837
+
+SNAP_Journal_tree=206132ms
+SNAP_Journal_tree_arr =  175902ms
+SNAP_Journal_list=Worked for approx 3 hours to reach 1% completion (stopped it)
+    vertex=4847571
+    edge=68993773
+
+KONECT_dimacs9_tree = 51106ms
+SNAP_Journal_list=Worked for approx 2 hours to reach 1% completion (stopped it)
+    vertex = 6262104
+    edges = 15119284
